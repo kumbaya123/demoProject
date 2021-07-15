@@ -13,7 +13,7 @@ import {
   ScrollView,
   View,
   Text,
-  StatusBar,
+  StatusBar
 } from 'react-native';
 
 import {

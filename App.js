@@ -67,7 +67,6 @@ const App: () => React$Node = () => {
             <Text>test</Text>
             <Text>gitKraken-undo</Text>
             <Text>gitKraken-undo-asgin</Text>
-            <Text>1</Text>
             <LearnMoreLinks />
           </View>
         </ScrollView>
